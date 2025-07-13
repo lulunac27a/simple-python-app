@@ -1,1 +1,1 @@
-print('This is a simple Python app')
+print('This is a simple Python app.')

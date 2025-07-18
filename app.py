@@ -6,3 +6,5 @@ print('Length: ', len(input_text))#print length of entered text
 print('Uppercase output: ', input_text.upper())#print text in uppercase
 print('Lowercase output: ', input_text.lower())#print text in lowercase
 print('Titlecase output: ', input_text.title())#print text in titlecase
+print('Capitalized output: ', input_text.capitalize())#print text in capitalized
+print('Reversed output: ', input_text[::-1])#print text in reverse
